@@ -1,0 +1,20 @@
+{
+  "name": "nodesinglecare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "module": "^1.2.5",
+    "pg": "^7.11.0",
+    "request": "^2.88.0"
+  }
+}
